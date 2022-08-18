@@ -1,0 +1,1 @@
+java -Xmx1024M -Xms1024M -jar x4leqxinn.jar nogui

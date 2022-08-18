@@ -1,0 +1,14 @@
+last_update = 1660716998154
+api_url = "https://api.playit.cloud/agent"
+ping_target_addresses = ["147.185.221.1:5530", "23.133.216.1:5530"]
+control_address = "control.playit.gg"
+refresh_from_api = true
+api_refresh_rate = 5000
+secret_key = "9fad7e33704a10b5f0327b220374bd226156e9f37aa43fae22deee4da366329a"
+
+[[mappings]]
+name = "uwu"
+proto = "tcp"
+tunnel_ip = "147.185.221.180"
+tunnel_from_port = 53356
+local_port = 25565
